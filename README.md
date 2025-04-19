@@ -1,5 +1,4 @@
 
-```markdown
 # 🌐 John Doe Portfolio
 
 
@@ -40,7 +39,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Inspiration
 
 Made with ❤️ by Team Tejasvin.  
 
