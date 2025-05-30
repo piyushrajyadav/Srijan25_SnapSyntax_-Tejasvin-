@@ -1,7 +1,7 @@
 
 # 🌐 John Doe Portfolio
 
-
+### This project was made for  srijan snapsyntax which was 2 hours hackrhon where we have to copy exact website which is hown to use foe 1 minute 
 ## 🚀 Features
 
 - 🌙 Dark/Light Theme Toggle
