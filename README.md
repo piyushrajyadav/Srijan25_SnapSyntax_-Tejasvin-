@@ -1,7 +1,8 @@
 
 # 🌐 John Doe Portfolio
 
-### This project was made for  srijan snapsyntax which was 2 hours hackrhon where we have to copy exact website which is hown to use foe 1 minute 
+### This project was made for  srijan snapsyntax which was 2 hours hackthon where we have to copy exact website which is hown to use foe 1 minute 
+#### your team members - piyush yadav (me) , Sumit kumar das , Agyanshu kumar 
 ## 🚀 Features
 
 - 🌙 Dark/Light Theme Toggle
